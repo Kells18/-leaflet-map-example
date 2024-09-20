@@ -1,3 +1,8 @@
 #map-title{
   font-family:"Fascinate Inline", sans-serif;
 }
+#map-title span{
+    display: block;
+    font-size: 18px;
+    color: gray;
+}
